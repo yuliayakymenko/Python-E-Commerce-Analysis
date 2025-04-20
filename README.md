@@ -6,9 +6,8 @@ This project focuses on exploring and analyzing a public e-commerce dataset. The
 ### Technologies
 Python Libraries (Data analysis and visualization):
 - Pandas (Data manipulation)
-- Matplotlib, Seaborn (Data visualization)
-
-Tableau (Creating interactive data visualization)
+- Matplotlib (Data visualization)
+- Tableau (Creating interactive data visualization)
 
 ### Dataset
 [The dataset used in this project is available here on Kaggle](https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset/data)
